@@ -7,6 +7,7 @@ Amaç ürünlerin hızlıca aranabilmesi ve kullanıcıya tavsiyelerde bulunabil
 UI kısmında Input'a değer girildikçe aşağı doğru ürünleri tamamlamakta.
 ```
 
-Video: 
+### Video:
+
 https://github.com/huseyinaydin99/my-elasticsearch-autocomplete-spring-boot-react-workshop/assets/16438043/db7a4401-9055-4ba3-845f-5b6d9bb83157
 
